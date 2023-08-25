@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.d243e753.css",
-    "main.js": "/static/js/main.a8300cf0.js",
+    "main.css": "/static/css/main.caf4ebd7.css",
+    "main.js": "/static/js/main.8641773e.js",
     "static/js/703.9988440b.chunk.js": "/static/js/703.9988440b.chunk.js",
     "static/js/513.23a8679b.chunk.js": "/static/js/513.23a8679b.chunk.js",
     "static/js/787.12f1f7f8.chunk.js": "/static/js/787.12f1f7f8.chunk.js",
     "static/media/Prabhat-kumar Sharma-(Teacher).png": "/static/media/Prabhat-kumar Sharma-(Teacher).691fb9a9e3cd690eac0c.png",
     "static/media/teacher-month.jpg": "/static/media/teacher-month.10df6137003258611de3.jpg",
+    "static/media/StudentLogin.jpg": "/static/media/StudentLogin.9e745818a9f6163bf6d3.jpg",
     "static/media/premise7.JPG": "/static/media/premise7.97b4ea5c111da3cde241.JPG",
     "static/media/team2.JPG": "/static/media/team2.3353c1fad5d83e64f8cf.JPG",
     "static/media/premise6.JPG": "/static/media/premise6.9f6cb610cfdcad353148.JPG",
@@ -71,14 +72,14 @@
     "static/media/online-course.png": "/static/media/online-course.9f08f315c327ecc01b09.png",
     "static/media/avatar.jpg": "/static/media/avatar.5d9ea6317191df85e1b9.jpg",
     "index.html": "/index.html",
-    "main.d243e753.css.map": "/static/css/main.d243e753.css.map",
-    "main.a8300cf0.js.map": "/static/js/main.a8300cf0.js.map",
+    "main.caf4ebd7.css.map": "/static/css/main.caf4ebd7.css.map",
+    "main.8641773e.js.map": "/static/js/main.8641773e.js.map",
     "703.9988440b.chunk.js.map": "/static/js/703.9988440b.chunk.js.map",
     "513.23a8679b.chunk.js.map": "/static/js/513.23a8679b.chunk.js.map",
     "787.12f1f7f8.chunk.js.map": "/static/js/787.12f1f7f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d243e753.css",
-    "static/js/main.a8300cf0.js"
+    "static/css/main.caf4ebd7.css",
+    "static/js/main.8641773e.js"
   ]
 }
