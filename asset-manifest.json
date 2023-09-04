@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.25702e96.css",
-    "main.js": "/static/js/main.32864f0d.js",
+    "main.css": "/static/css/main.7133569e.css",
+    "main.js": "/static/js/main.ea27b616.js",
     "static/js/703.9988440b.chunk.js": "/static/js/703.9988440b.chunk.js",
     "static/js/513.23a8679b.chunk.js": "/static/js/513.23a8679b.chunk.js",
     "static/js/787.12f1f7f8.chunk.js": "/static/js/787.12f1f7f8.chunk.js",
     "static/media/Prabhat-kumar Sharma-(Teacher).png": "/static/media/Prabhat-kumar Sharma-(Teacher).691fb9a9e3cd690eac0c.png",
-    "static/media/teacher-month.jpg": "/static/media/teacher-month.10df6137003258611de3.jpg",
     "static/media/StudentLogin.jpg": "/static/media/StudentLogin.9e745818a9f6163bf6d3.jpg",
     "static/media/premise7.JPG": "/static/media/premise7.97b4ea5c111da3cde241.JPG",
     "static/media/team2.JPG": "/static/media/team2.3353c1fad5d83e64f8cf.JPG",
@@ -42,7 +41,6 @@
     "static/media/premise9.JPG": "/static/media/premise9.f1ba57c0ea7eea352c4a.JPG",
     "static/media/TeacherLogin.jpg": "/static/media/TeacherLogin.2d991c5dca8a9ecbc02c.jpg",
     "static/media/director.jpeg": "/static/media/director.f1dd167db3102834bdeb.jpeg",
-    "static/media/testi-1.jpg": "/static/media/testi-1.b14c36c7be26a2f01e33.jpg",
     "static/media/course-learn.jpg": "/static/media/course-learn.7acec0cdb39080add2de.jpg",
     "static/media/artificial-intelligence.jpg": "/static/media/artificial-intelligence.28abc2cef8e3f4d9ac64.jpg",
     "static/media/course-video.jpg": "/static/media/course-video.cd92b7649566a5b539bc.jpg",
@@ -58,7 +56,6 @@
     "static/media/Divyanshi-singh-(Teacher).jpeg": "/static/media/Divyanshi-singh-(Teacher).fb51c4f3912482cd2a44.jpeg",
     "static/media/Pratishtha-Dwivedi (Evening-manager).jpeg": "/static/media/Pratishtha-Dwivedi (Evening-manager).11a9032067be4420c5a8.jpeg",
     "static/media/about-img-2.jpg": "/static/media/about-img-2.25de577ee7b940a43bbe.jpg",
-    "static/media/student-month.jpg": "/static/media/student-month.591268db5b8f4bda0bb8.jpg",
     "static/media/student-of-the-month.jpg": "/static/media/student-of-the-month.ac9e7cb5e6a314006bf8.jpg",
     "static/media/learning.png": "/static/media/learning.baee980c93e025c5dd6d.png",
     "static/media/man.jpg": "/static/media/man.3609809a80667e12a52d.jpg",
@@ -74,14 +71,14 @@
     "static/media/online-course.png": "/static/media/online-course.9f08f315c327ecc01b09.png",
     "static/media/avatar.jpg": "/static/media/avatar.5d9ea6317191df85e1b9.jpg",
     "index.html": "/index.html",
-    "main.25702e96.css.map": "/static/css/main.25702e96.css.map",
-    "main.32864f0d.js.map": "/static/js/main.32864f0d.js.map",
+    "main.7133569e.css.map": "/static/css/main.7133569e.css.map",
+    "main.ea27b616.js.map": "/static/js/main.ea27b616.js.map",
     "703.9988440b.chunk.js.map": "/static/js/703.9988440b.chunk.js.map",
     "513.23a8679b.chunk.js.map": "/static/js/513.23a8679b.chunk.js.map",
     "787.12f1f7f8.chunk.js.map": "/static/js/787.12f1f7f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25702e96.css",
-    "static/js/main.32864f0d.js"
+    "static/css/main.7133569e.css",
+    "static/js/main.ea27b616.js"
   ]
 }
