@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ef2346f.css",
-    "main.js": "/static/js/main.00fbe9c0.js",
+    "main.css": "/static/css/main.a0993949.css",
+    "main.js": "/static/js/main.091449dc.js",
     "static/js/703.9988440b.chunk.js": "/static/js/703.9988440b.chunk.js",
     "static/js/513.23a8679b.chunk.js": "/static/js/513.23a8679b.chunk.js",
     "static/js/787.12f1f7f8.chunk.js": "/static/js/787.12f1f7f8.chunk.js",
@@ -41,9 +41,7 @@
     "static/media/premise9.JPG": "/static/media/premise9.f1ba57c0ea7eea352c4a.JPG",
     "static/media/TeacherLogin.jpg": "/static/media/TeacherLogin.2d991c5dca8a9ecbc02c.jpg",
     "static/media/director.jpeg": "/static/media/director.f1dd167db3102834bdeb.jpeg",
-    "static/media/course-learn.jpg": "/static/media/course-learn.7acec0cdb39080add2de.jpg",
     "static/media/artificial-intelligence.jpg": "/static/media/artificial-intelligence.28abc2cef8e3f4d9ac64.jpg",
-    "static/media/course-video.jpg": "/static/media/course-video.cd92b7649566a5b539bc.jpg",
     "static/media/director-avatar.jpeg": "/static/media/director-avatar.fc72a3ae3b3fb48c534f.jpeg",
     "static/media/hero-img2.png": "/static/media/hero-img2.fecf2b7c4d5b4d69133c.png",
     "static/media/Mukesh-kumar-(Teacher).jpeg": "/static/media/Mukesh-kumar-(Teacher).fbc31561d21c45f4e6a9.jpeg",
@@ -60,7 +58,6 @@
     "static/media/learning.png": "/static/media/learning.baee980c93e025c5dd6d.png",
     "static/media/man.jpg": "/static/media/man.3609809a80667e12a52d.jpg",
     "static/media/person-1.jpg": "/static/media/person-1.7db76428557a8eea6151.jpg",
-    "static/media/pointing-finger.png": "/static/media/pointing-finger.b05951ae73bdef0504e3.png",
     "static/media/question-mark.png": "/static/media/question-mark.deb59984af14713985f6.png",
     "static/media/teacher.png": "/static/media/teacher.da006fd4227b3642f80e.png",
     "static/media/logo.png": "/static/media/logo.bcbd87d71f6925cbb646.png",
@@ -71,14 +68,14 @@
     "static/media/online-course.png": "/static/media/online-course.9f08f315c327ecc01b09.png",
     "static/media/avatar.jpg": "/static/media/avatar.5d9ea6317191df85e1b9.jpg",
     "index.html": "/index.html",
-    "main.4ef2346f.css.map": "/static/css/main.4ef2346f.css.map",
-    "main.00fbe9c0.js.map": "/static/js/main.00fbe9c0.js.map",
+    "main.a0993949.css.map": "/static/css/main.a0993949.css.map",
+    "main.091449dc.js.map": "/static/js/main.091449dc.js.map",
     "703.9988440b.chunk.js.map": "/static/js/703.9988440b.chunk.js.map",
     "513.23a8679b.chunk.js.map": "/static/js/513.23a8679b.chunk.js.map",
     "787.12f1f7f8.chunk.js.map": "/static/js/787.12f1f7f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ef2346f.css",
-    "static/js/main.00fbe9c0.js"
+    "static/css/main.a0993949.css",
+    "static/js/main.091449dc.js"
   ]
 }
